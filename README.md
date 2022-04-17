@@ -1,2 +1,5 @@
 # Vidual_Analytics
- Created Project folder for VAST 2019 MC1 Dataset
+Created Project folder for VAST 2019 MC1 Dataset
+
+# OVERVIEW
+Project is majorly focused on the effect of earthquake on a location called St.Himark which has around 19 locations. The dataset consists of fields named as roads and bridges, sewage and water, power, building, shake intensity etc which has values ranged from 1 - 10 based on the damage undergone.
