@@ -6,4 +6,3 @@ Project is majorly focused on the effect of earthquake on a location called St.H
 
 The question which needs to be answered is to check for uncertainity in the data provided by the people from their locations throughout the 6 days period.
 
-This update is from local repo and Ashu's Branch.
