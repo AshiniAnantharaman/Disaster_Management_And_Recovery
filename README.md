@@ -7,6 +7,8 @@ This Project deals about Crowdsourcing for Situational Awareness which is a part
   
 St. Himark has been hit by an earthquake, leaving officials scrambling to determine the extent of the damage and dispatch limited resources to the areas in most need. They quickly receive seismic readings and use those for an initial deployment but realize they need more information to make sure they have a realistic understanding of the true conditions throughout the city.
 
+![St.Himark] (St.Himark%20Map.png)
+
 In a prescient move of community engagement, the city had released a new damage reporting mobile application shortly before the earthquake. This app allows citizens to provide more timely information to the city to help them understand damage and prioritize their response. In this mini-challenge, app responses are used in conjunction with shake maps of the earthquake strength to identify areas of concern and advise emergency planners. 
 
 ## OVERVIEW
