@@ -5,9 +5,9 @@
   
 ## INTRODUCTION
   
-  St. Himark has been hit by an earthquake, leaving officials scrambling to determine the extent of the damage and dispatch limited resources to the areas in most need. They quickly receive seismic readings and use those for an initial deployment but realize they need more information to make sure they have a realistic understanding of the true conditions throughout the city.
+St. Himark has been hit by an earthquake, leaving officials scrambling to determine the extent of the damage and dispatch limited resources to the areas in most need. They quickly receive seismic readings and use those for an initial deployment but realize they need more information to make sure they have a realistic understanding of the true conditions throughout the city.
 
-  In a prescient move of community engagement, the city had released a new damage reporting mobile application shortly before the earthquake. This app allows citizens to provide more timely information to the city to help them understand damage and prioritize their response. In this mini-challenge, app responses are used in conjunction with shake maps of the earthquake strength to identify areas of concern and advise emergency planners. 
+In a prescient move of community engagement, the city had released a new damage reporting mobile application shortly before the earthquake. This app allows citizens to provide more timely information to the city to help them understand damage and prioritize their response. In this mini-challenge, app responses are used in conjunction with shake maps of the earthquake strength to identify areas of concern and advise emergency planners. 
 
 ## OVERVIEW
 The main objective of the project is to analyze the situation in St.Himark and decide using various factors like the damage ratings on *roads and bridges*,  *power*, *medical*, *buildings*, *sewer and water* and *shake intensity* on various locations which needs immediate assistance. Also since it is an application used by the public there are chances of uncertainity in the data which also needs to be verified.
@@ -28,10 +28,10 @@ The dataset contains a location number, date and ratings of each fields mentione
 7.  Future Work
 
 ### 1. Data Pre-Processing
-    This steps is where the dataset is taken and the count of records and number of missing values were recorded. It also deals with basic correlation and the five point summary statistics of all the categories.
+This steps is where the dataset is taken and the count of records and number of missing values were recorded. It also deals with basic correlation and the five point summary statistics of all the categories.
     
 ### 2. Data Exploration
-    The data was further explored by generating a report using Python Sweetviz which will explain the statistics of each category and the data distribution in each field. The highest number of ratings were calculated with respect to the dates and also with respect to different locations. A box plot was plotted for all the categories and it was figured that there were some outliers. Also, heatmaps were plotted for all the null values in each category.
+The data was further explored by generating a report using Python Sweetviz which will explain the statistics of each category and the data distribution in each field. The highest number of ratings were calculated with respect to the dates and also with respect to different locations. A box plot was plotted for all the categories and it was figured that there were some outliers. Also, heatmaps were plotted for all the null values in each category.
     
 ### 3. Data Visualization
  - The data was further visualized using Bubble Chart which explaints the distribution of ratings in each day and hour in the lowest and highest response region: Wilson Forest and Scenic Vista.
