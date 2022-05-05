@@ -1,7 +1,7 @@
-# VAST 2019 - Mini Challenge 1
-  This Project deals about Crowdsourcing for Situational Awareness which is a part of VAST 2019 - Mini Challenge 1 dataset.
+<h1 align="center">VAST 2019 - Mini Challenge 1<h1>
   
-  [Link : https://vast-challenge.github.io/2019/MC1.html]
+__This Project deals about Crowdsourcing for Situational Awareness which is a part of VAST 2019 - Mini Challenge 1 dataset.__
+[Link : https://vast-challenge.github.io/2019/MC1.html]
   
 ## INTRODUCTION
   
