@@ -50,7 +50,7 @@ Below are the questions which are answered after the visualization and alaysis
  - Which parts are most affected
  - Uncertainity in the data.
  - Reliability in neighborbhood reports
- - Chanage of conditions over time
+ - Change of conditions over time
 
 ## CONCLUSION
 Based on the above analysis, at specific time period it was possible to determine which area was most impacted by the earthquake for these categories but it was also evident that there can be instances of uncertainty in the data. The above questions were answered using various visualizations and tools.
